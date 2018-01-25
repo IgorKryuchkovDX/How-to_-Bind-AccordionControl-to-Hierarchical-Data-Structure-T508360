@@ -3,7 +3,7 @@
              xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
              xmlns:dx="http://schemas.devexpress.com/winfx/2008/xaml/core"
              xmlns:views="clr-namespace:DXSample.Views"
-             Height="650"
+             Height="600"
              Width="600"
              Title="Accordion">
 
